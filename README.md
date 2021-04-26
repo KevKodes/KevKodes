@@ -4,4 +4,4 @@ I am a software engineer who recently completed a full stack course at App Acade
 
 - I’m currently working on Golfhub, a stat tracking app for golfers
 - I enjoy a team setting and am looking to collaborate on projects with motion tracking
-- How to reach me: <a href="https://www.linkedin.com/in/kevin-pitzer/">linkedIn</a>
+- Find me on <a href="https://www.linkedin.com/in/kevin-pitzer/">linkedIn</a>
