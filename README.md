@@ -19,3 +19,7 @@ I am a software engineer who recently completed a full stack course at App Acade
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> <addr>
+
+### Stats
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpxrk&theme=radical)](https://github.com/dpxrk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpxrk&theme=radical)](https://github.com/dpxrk/github-readme-stats)
