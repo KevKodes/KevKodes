@@ -21,5 +21,5 @@ I am a software engineer who recently completed a full stack course at App Acade
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> <addr>
 
 ### Stats
-[![Kevins's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevkodes&theme=radical)](https://github.com/kevkodes/github-readme-stats)
+[![Kevins's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevkodes&theme=merko)](https://github.com/kevkodes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkodes&theme=radical)](https://github.com/kevkodes/github-readme-stats)
