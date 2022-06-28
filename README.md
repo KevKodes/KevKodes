@@ -1,9 +1,5 @@
 ### Welcome to my GitHub
 
-I am a Software Engineer who recently completed a full stack course at App Academy. Throughout the 1000 hour immersive course, I honed my skills in JavaScript, Python, and associated frameworks.
-
-- I’m currently working on Golfhub, a stat tracking app for golfers
-- I enjoy a team setting and am looking to collaborate on projects with machine learning
 - Find me on <a href="https://www.linkedin.com/in/kevin-pitzer/">LinkedIn</a>
 
 ### [](https://github.com/kevkodes/kevkodes/#languagesandtechnologies)Languages and Technologies I Use:
